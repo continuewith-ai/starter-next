@@ -1,0 +1,28 @@
+# Acme — AI handoff landing (starter)
+
+> Minimal marketing page built with ContinueWith starter-next.
+
+## Product
+
+Acme helps teams ship landing pages with an AI handoff widget so visitors can continue the page in ChatGPT, Claude, Gemini, and more.
+
+## Pages
+
+- / — marketing landing with ContinueWith widget
+
+## Install widget
+
+<script src="https://continuewith.ai/widget/v1.js" data-site-key="cw_demo_public_key" defer></script>
+
+Replace `cw_demo_public_key` with your dashboard public site key.
+
+## Links
+
+- Website: https://example.com
+- ContinueWith docs: https://continuewith.ai/docs/install
+- AI Ready Index: https://ready.continuewith.ai
+- Scan readiness: https://ready.continuewith.ai/scan
+
+## Contact
+
+Replace this file with your real product summary before launch.
